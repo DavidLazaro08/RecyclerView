@@ -60,4 +60,4 @@ Aplicación funcional con interacción completa sobre los elementos de la lista.
 
 El funcionamiento de la aplicación se puede ver en el siguiente vídeo:
 
-[Ver vídeo](./video/video.mp4)
+[Ver vídeo](./video/MuestraApp.mp4)
